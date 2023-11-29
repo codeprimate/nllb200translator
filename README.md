@@ -23,10 +23,10 @@ Learn More:
 ./start.sh
 
 # (optional) Start with Port
-PORT=3001 ./start
+PORT=3000 ./start
 ```
 
-Open [http://localhost:3001/](http://localhost:3001/) 
+Open [http://localhost:3000/](http://localhost:3000/) 
 
 # Using Docker
 
